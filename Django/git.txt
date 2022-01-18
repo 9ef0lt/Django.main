@@ -1,0 +1,11 @@
+pip install django
+dhango-admin start project taskmanager
+ewrgwrkqwelrh
+
+echo "# Django.main" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/9ef0lt/Django.main.git
+git push -u origin main
